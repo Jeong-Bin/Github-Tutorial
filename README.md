@@ -42,7 +42,8 @@
     - git add *.py     : 모든 py 파일만 add 
 </br>
 
-6. (선택) git status 로 add가 잘 됐는지 확인.
+6. (선택) git status
+      - add가 잘 됐는지 확인.
 </br>
 
 7. git commit -m "수정사항에 대한 코멘트"
