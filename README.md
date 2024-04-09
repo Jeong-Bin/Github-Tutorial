@@ -6,13 +6,13 @@
    이제부터 git 작업에서 github 비밀번호 대신 이 토큰이 비밀번호로 사용된다.
 </br>
 
-3. 내 github에 들어가서 repository를 하나 만든다.
+2. 내 github에 들어가서 repository를 하나 만든다.
 </br>
 
-4. 작업중인 폴더이자 repository에 올릴 폴더의 경로에서 git init
+3. 작업중인 폴더이자 repository에 올릴 폴더의 경로에서 git init
 </br>
 
-5. git remote add [레포지토리 별명] [레포지토리 주소]
+4. git remote add [레포지토리 별명] [레포지토리 주소]
     - [레포지토리 별명]은 보통 origin을 많이  사용하나, 뭐든 상관없다.
     - [레포지토리 주소] 해당 레포지토리의 '<> Code' 에서 복붙한다.
     - name은 깃헙 name, passward는 토큰을 입력한다.
