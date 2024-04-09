@@ -4,7 +4,6 @@
 
 1. https://hyeo-noo.tistory.com/184 를 참고해서 personal access token을 하나 만든다. </br>
    이제부터 git 작업에서 github 비밀번호 대신 이 토큰이 비밀번호로 사용된다.
-   # 240402 토큰 : 
 </br>
 
 3. 내 github에 들어가서 repository를 하나 만든다.
